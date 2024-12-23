@@ -120,12 +120,12 @@ The Jupyter notebook contains the entire project workflow:
 1. **Correlation Heatmap**:
    This heatmap shows the correlations between different features and the target variable (median house value). The darker colors represent stronger correlations.
 
-   ![Correlation Heatmap](plots/correlation_heatmap.png)
+   ![Correlation Heatmap](_heatmap.png)
 
 2. **Predicted vs Actual Values**:
    A scatter plot showing how well the predicted values from the models compare with the actual values in the dataset. Ideally, the points should lie close to the diagonal line.
 
-   ![Predicted vs Actual Scatter Plot](plots/predicted_vs_actual.png)
+   ![Predicted vs Actual Scatter Plot](actual.png)
 
 ## Data Preprocessing
 
