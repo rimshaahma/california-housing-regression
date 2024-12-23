@@ -125,7 +125,7 @@ The Jupyter notebook contains the entire project workflow:
 2. **Predicted vs Actual Values**:
    A scatter plot showing how well the predicted values from the models compare with the actual values in the dataset. Ideally, the points should lie close to the diagonal line.
 
-   ![Predicted vs Actual Scatter Plot](actual.png)
+   ![Predicted vs Actual Scatter Plot](distribution.png)
 
 ## Data Preprocessing
 
